@@ -1,0 +1,1 @@
+{"timeStep": 1, "stimLen": 10, "deltaStim": 50, "NrE_L4": 200, "NrE_L3": 100, "NrI_L3": 20, "Nr4to3": 50, "tau_e": 1, "tau_i": 1, "beta_v": 0.3, "beta_inh": 0.3, "theta_v": 0, "vis_amp": 10, "bck_current": 10, "depr_value": 0, "nr_Ori": 5, "layerfactor": 10}
